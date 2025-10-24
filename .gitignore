@@ -1,0 +1,36 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and backup files
+~$*
+*.tmp
+*.bak
+*.swp
+*.lock
+*.log
+
+# Editor and Office temp files
+*.autosave
+*.~lock*
+*.backup
+*.old
+
+# Generated exports (we track .docx and .txt, skip others)
+*.pdf
+*.odt
+*.ods
+*.odp
+
+# VSCode / LibreOffice / GitHub Desktop metadata
+.vscode/
+.idea/
+*.code-workspace
+.gitconfig
+*.lnk
+
+# OS trash and cache
+.Trash-*
+.cache/
+
