@@ -1,0 +1,43 @@
+MIDLAND PANTRY & COMMUNITY FOOD FOREST INITIATIVE
+Shared Responsibilities Summary
+Version 1.0 · October 24 2025
+Pantry Planning Project
+
+SUMMARY
+--------
+This summary identifies tasks and functions managed collaboratively between all
+project coordinators to ensure consistent communication and shared accountability.  
+
+SHARED TASKS
+-------------
+• Document management system maintenance (Heather + Jaide)  
+• Pantry logistics planning (All Coordinators)  
+• Volunteer scheduling and tracking (Lead: Jaide)  
+• Financial oversight and grant management (Lead: Heather)  
+• Site safety and access compliance (Lead: Anna)  
+• Accessibility review for all on-site and off-site materials (All)  
+• Monthly progress documentation and GitHub updates (Heather + Jaide)  
+
+MEETING STRUCTURE
+------------------
+• Regular coordinator meetings held twice monthly or as project workload demands.  
+• Notes from each meeting archived under “Project Metadata/Meeting Logs.”  
+• Decision summaries recorded in the Revision Log and committed to GitHub.
+
+FOOTNOTE
+---------
+¹ Site layout pending: Official property layout and utility plans have not yet been obtained.
+Current design elements reflect estimated placements based on observed site conditions.
+Final diagrams and measurements will be added upon receipt of verified site plans.
+
+REVISION NOTES – DOCUMENT HISTORY
+----------------------------------
+Date          Version          Description          Author  
+2025-10-24     1.0              Initial Shared Responsibilities Summary      Pantry Planning Collective  
+
+PROJECT CONTACT INFORMATION
+----------------------------
+Pantry Planning Project – Midland Pantry & Community Food Forest  
+Email: risingtidepdx@gmail.com  
+Coordinators: Heather-Lynne Van Wilde • Jaide Crow • Anna Dunlap
+
