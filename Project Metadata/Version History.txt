@@ -1,0 +1,17 @@
+PANTRY PLANNING PROJECT – VERSION HISTORY
+Midland Pantry & Community Food Forest Initiative
+
+Version | Date        | Description                                         | Author(s)
+--------|-------------|-----------------------------------------------------|------------
+1.0     | 2025-10-23  | Repository initialization and baseline structure.   | Pantry Planning Collective
+
+
+NOTES
+-----
+• Repository established under Raindrop Works GitHub organization:
+  https://github.com/raindropworks/midland-pantry
+• Public short link for quick access and QR code use:
+  https://bitl.to/5ERb
+• Future updates will increment version numbers (v1.1, v1.2, etc.)
+  as new documents are added or major revisions are released.
+

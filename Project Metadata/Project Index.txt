@@ -1,0 +1,59 @@
+PANTRY PLANNING PROJECT – MASTER INDEX
+Midland Pantry & Community Food Forest Initiative
+Version 1.0 – October 24, 2025
+
+OVERVIEW
+---------
+This index lists all documents included in the Pantry Planning archive.
+It serves as the primary navigation reference for the Midland Pantry project.
+
+ONLINE REPOSITORY
+-----------------
+Main Repository:  https://github.com/raindropworks/midland-pantry
+Short Link (for QR or print use):  https://bitl.to/5ERb
+
+DOCUMENT GROUPS
+---------------
+1. 2025-10-23 – Phase 1–3 Food Forest Development
+   • Coordinator Responsibilities (Phases 1–3)
+   • Phase 1–3 Coordinator Workbook (Full Edition v1.0)
+   • Phase 1–3 Coordinator Workbook (Condensed Summary v1.0)
+   • Coordinator Roles – Anna Dunlap
+   • Heather Task Workbook (Phases 1–3)
+   • Jaide Habitat and Planting Workbook
+   • Raised-Bed Food Production Guide
+   • Habitat & Planting Workbook (Notes)
+   • Coordinator Workbook Notes
+
+2. 2025-10-23 – Grant & Funding Documents
+   • Full Grant Proposal
+   • Grant Proposal Summary
+   • Funding Source Notes
+   • Proposal Revision Notes
+
+3. 2025-10-23 – Coordinator & Role Definitions
+   • Coordinator Overview
+   • Coordinator Role Matrix
+   • Shared Responsibilities Summary
+   • Accessibility & Inclusion Standards
+
+4. 2025-10-23 – Formatting & Standards
+   • Pantry Planning Formatting Standards
+   • Pantry Planning Language Standards
+   • Pantry Planning Archive Index
+
+5. Project Metadata
+   • Project Index
+   • Project Contacts
+   • Version History
+
+6. Revision Logs
+   • 2025-10-23 – Initial Setup Log
+   • 2025-10-24 – Phase 1–3 Integration Log
+
+NOTES
+-----
+This index is updated with each archive revision to ensure all materials remain
+traceable through version control. All official file updates are tracked through
+the GitHub repository listed above.
+
