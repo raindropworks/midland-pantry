@@ -1,0 +1,73 @@
+PANTRY PLANNING PROJECT – ARCHIVE INDEX
+Midland Pantry & Community Food Forest Initiative
+Version 1.0 · October 24 2025
+
+OVERVIEW
+---------
+This index summarizes the structure and content of the Pantry Planning archive.
+Each folder is labeled by date and phase to maintain consistent traceability.
+
+DIRECTORY STRUCTURE
+-------------------
+/Midland Pantry/  
+│  
+├── README.txt  
+├── Template Standards.txt  
+├── Archive Update Checklist.txt  
+│  
+├── 2025-10-23 – Phase 1–3 Food Forest Development/  
+│   ├── Coordinator Responsibilities (Phases 1–3).docx  
+│   ├── Heather Task Workbook (Phases 1–3).docx  
+│   ├── Jaide Habitat and Planting Workbook.docx  
+│   ├── Coordinator Roles (Anna Dunlap).docx  
+│   ├── Phase 1–3 Coordinator Workbook (Full Edition v1.0).docx  
+│   ├── Phase 1–3 Coordinator Workbook (Condensed Summary v1.0).docx  
+│   ├── Raised-Bed Food Production Guide.docx  
+│   ├── Habitat & Planting Workbook.txt  
+│   └── Coordinator Workbook Notes.txt  
+│  
+├── 2025-10-23 – Grant & Funding Documents/  
+│   ├── Full Grant Proposal.docx  
+│   ├── Grant Proposal Summary.docx  
+│   ├── Funding Source Notes.txt  
+│   └── Proposal Revision Notes.txt  
+│  
+├── 2025-10-23 – Coordinator & Role Definitions/  
+│   ├── Coordinator Overview.txt  
+│   ├── Coordinator Role Matrix.docx  
+│   ├── Shared Responsibilities Summary.txt  
+│   └── Accessibility & Inclusion Standards.docx  
+│  
+├── 2025-10-23 – Formatting & Standards/  
+│   ├── Pantry Planning Formatting Standards.txt  
+│   ├── Pantry Planning Language Standards.txt  
+│   └── Pantry Planning Archive Index.txt  
+│  
+├── Revision Logs/  
+│   ├── 2025-10-23 – Initial Setup Log.txt  
+│   └── 2025-10-24 – Phase 1–3 Integration Log.txt  
+│  
+└── Project Metadata/  
+    ├── Project Index.txt  
+    ├── Project Contacts.txt  
+    └── Version History.txt  
+
+MAINTENANCE NOTES
+------------------
+• Each folder is versioned and self-contained.  
+• All document files follow the Times New Roman 14 pt / 1.5 spacing / grayscale standard.  
+• Footnote ¹ appears in all planning-phase documents.  
+• Commit changes to GitHub repository after each verified update.  
+
+REVISION NOTES – DOCUMENT HISTORY
+----------------------------------
+Date          Version          Description          Author  
+2025-10-24     1.0              Initial Archive Index compiled      Pantry Planning Collective  
+
+PROJECT CONTACT INFORMATION
+----------------------------
+Pantry Planning Project – Midland Pantry & Community Food Forest  
+Email: risingtidepdx@gmail.com  
+Repository: https://github.com/raindropworks/midland-pantry  
+Short Link (QR): https://bitl.to/5ERb
+

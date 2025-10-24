@@ -1,0 +1,55 @@
+PANTRY PLANNING PROJECT – LANGUAGE & TRANSLATION STANDARDS
+Version 1.0 · October 24 2025
+Midland Pantry & Community Food Forest Initiative
+
+PURPOSE
+--------
+This document defines language accessibility and translation guidelines
+for all Pantry Planning materials to ensure inclusive communication with
+the Multnomah County community.
+
+LANGUAGE PRIORITIES
+-------------------
+Primary working language: English  
+Secondary and translation priority languages (based on Oregon.gov listings):
+• Spanish (Español)  
+• Vietnamese (Tiếng Việt)  
+• Chinese – Simplified (中文 简体)  
+• Russian (Русский)  
+• Ukrainian (Українська)  
+• Somali (Af-Soomaali)  
+
+Each document will eventually include translated editions or summaries
+in these languages, depending on community need and funding.
+
+TRANSLATION FORMAT
+------------------
+• Keep the same page layout, section order, and footnote structure.  
+• Use professional or community translators familiar with cultural context.  
+• Include translator attribution on the cover page.  
+• Maintain the revision table and version numbering consistent with
+  the English edition.
+
+ACCESSIBILITY IN LANGUAGE
+--------------------------
+• Use plain, clear language whenever possible.  
+• Avoid idioms, legal jargon, or complex sentence structures.  
+• Provide visual aids or diagrams alongside translated text.  
+• Test digital copies with screen readers in both English and translated versions.  
+
+DIGITAL FORMAT
+---------------
+All translations will be maintained in UTF-8 encoding for compatibility
+with Linux, macOS, and Windows systems.
+
+REVISION NOTES – DOCUMENT HISTORY
+----------------------------------
+Date          Version          Description          Author  
+2025-10-24     1.0              Initial Language & Translation Standards      Pantry Planning Collective  
+
+PROJECT CONTACT INFORMATION
+----------------------------
+Pantry Planning Project – Midland Pantry & Community Food Forest  
+Email: risingtidepdx@gmail.com  
+Coordinators: Heather-Lynne Van Wilde • Jaide Crow • Anna Dunlap
+
