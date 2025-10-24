@@ -1,0 +1,38 @@
+PANTRY PLANNING ARCHIVE UPDATE CHECKLIST
+Version 1.0 – October 23, 2025
+
+INSTRUCTIONS
+------------
+Run this checklist before each major update or document addition.
+
+1. FILE STRUCTURE
+   [ ] Verify all new files follow “Midland Pantry – <Title>” naming convention.
+   [ ] Confirm each file resides in the correct dated folder.
+   [ ] Remove redundant or outdated drafts from active folders.
+
+2. DOCUMENT FORMAT
+   [ ] Times New Roman, 14 pt, 1.5 spacing, grayscale.
+   [ ] Footnote ¹ (Site layout pending) present if relevant.
+   [ ] Includes “Revision Notes – Document History” table.
+   [ ] Includes “Project Contact Information” block.
+
+3. VERSION CONTROL
+   [ ] Update version numbers (v1.1, v1.2, etc.) before committing changes.
+   [ ] Update “Version History.txt” in Project Metadata.
+   [ ] Commit changes with descriptive messages via GitHub Desktop.
+
+4. REVISION LOGS
+   [ ] Add an entry in /Revision Logs/ with date and short summary.
+   [ ] Cross-reference changes in “Archive Update Checklist.txt.”
+
+5. BACKUP & ACCESS
+   [ ] Verify all .docx and .txt files open correctly in LibreOffice and Word.
+   [ ] Sync repository changes to GitHub (private or public as approved).
+   [ ] Export a ZIP snapshot if external sharing is required.
+
+6. APPROVAL & SIGN-OFF
+   [ ] Confirm with all coordinators (Heather, Jaide, Anna) before release.
+   [ ] Tag release in GitHub with version and date.
+
+Maintained by the Pantry Planning Project Coordinators.
+

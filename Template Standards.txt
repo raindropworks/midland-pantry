@@ -1,0 +1,61 @@
+PANTRY PLANNING TEMPLATE & FORMATTING STANDARDS
+Version 1.0 – October 23, 2025
+
+GENERAL FORMAT
+--------------
+• Font: Times New Roman, 14 pt
+• Line spacing: 1.5
+• Color palette: Grayscale only (printer-friendly)
+• Page size: US Letter (8.5 × 11 in)
+• Margins: Standard 1 inch on all sides
+• Header/Footer: Thin gray divider lines with centered page numbers
+
+DOCUMENT SECTIONS
+-----------------
+1. Cover Page
+   • Project title, document type, version, and date.
+   • Coordinator names and Pantry Planning header.
+
+2. Summary
+   • Brief overview of purpose, goals, and scope.
+
+3. Main Content
+   • Section headings in bold, 14 pt.
+   • Nested subsections indicated by ### where appropriate.
+   • Numbered or bulleted task lists for clarity.
+
+4. Footnotes
+   • Use superscript numeric notation (¹, ², ³…)
+   • Standard note required for site layout references:
+     “¹ Site layout pending: Official property layout and utility plans have not yet
+     been obtained. Current design elements reflect estimated placements based on
+     observed site conditions. Final diagrams and measurements will be added upon
+     receipt of verified site plans.”
+
+5. Revision Notes – Document History
+   • Table format:
+       | Date | Version | Description | Author |
+
+6. Project Contact Information
+   • Include “(Email pending assignment)” until finalized.
+
+MULTILINGUAL EDITIONS
+---------------------
+Future versions of each document will include translated editions based on
+the most common languages used in Multnomah County as listed by:
+https://www.oregon.gov/languages/pages/common-language-county.aspx
+Formatting for each language will follow typographic conventions native to
+that language while preserving section structure.
+
+ARCHIVE NAMING CONVENTIONS
+--------------------------
+File names begin with “Midland Pantry – ” followed by the project title.
+Dates use ISO format (YYYY-MM-DD) in folder names.
+Each new version increments the vX.X designation in parentheses.
+
+EXAMPLE
+--------
+Midland Pantry – Phase 1–3 Coordinator Workbook (Full Edition v1.0).docx
+
+Prepared and maintained by the Pantry Planning Project.
+
