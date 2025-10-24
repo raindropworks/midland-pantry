@@ -1,0 +1,49 @@
+MIDLAND PANTRY & COMMUNITY FOOD FOREST INITIATIVE
+Proposal Revision Notes
+Version 1.0 · October 24 2025
+Pantry Planning Project
+
+PURPOSE
+--------
+This document logs updates, edits, and submission revisions for all grant
+proposals within the Pantry Planning project. It ensures each version of
+a proposal remains traceable through the archive and GitHub history.
+
+ENTRY FORMAT
+-------------
+Date:  
+Document Revised:  
+Revision Number:  
+Summary of Change:  
+Funder or Submission Context:  
+Next Action:  
+Author:  
+
+Example Entry
+--------------
+Date:  2025-10-24  
+Document Revised:  Full Grant Proposal.docx  
+Revision Number:  v1.1  
+Summary of Change:  Added updated budget figures and clarified project timeline.  
+Funder or Submission Context:  Oregon Community Food Systems Network  
+Next Action:  Submit final version after coordinator sign-off.  
+Author:  Heather-Lynne Van Wilde  
+
+CHECKLIST
+----------
+[ ] Confirm version increment in document header and Version History.txt  
+[ ] Update Revision Notes – Document History table in proposal  
+[ ] Sync updated file to GitHub repository  
+[ ] Notify all coordinators prior to external submission  
+
+REVISION NOTES – DOCUMENT HISTORY
+----------------------------------
+Date          Version          Description          Author  
+2025-10-24     1.0              Initial Proposal Revision Notes template      Pantry Planning Collective  
+
+PROJECT CONTACT INFORMATION
+----------------------------
+Pantry Planning Project – Midland Pantry & Community Food Forest  
+Email: risingtidepdx@gmail.com  
+Coordinators: Heather-Lynne Van Wilde • Jaide Crow • Anna Dunlap
+
