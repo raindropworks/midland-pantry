@@ -36,7 +36,7 @@ Pantry Planning Project Coordinators:
 Heather-Lynne Van Wilde
 Jaide Crow
 Anna Dunlap
-(Email contact pending)
+risingtidepdx@gmail.com (temporary)
 
 LICENSE
 -------
